@@ -1,19 +1,19 @@
-# Library for Configuration Files
+# Бібліотека для конфігураційних файлів
 
-This project provides a library for working with configuration files. It supports parsing, validation, and schema definition for configuration files in JSON and YAML formats.
+Цей проект надає бібліотеку для роботи з конфігураційними файлами. Він підтримує парсинг, валідацію та визначення схем для конфігураційних файлів у форматах JSON і YAML.
 
-## Features
-- Load configuration files
-- Validate configurations against a schema
-- Simple and intuitive API
+## Особливості
+- Завантаження конфігураційних файлів
+- Валідація конфігурацій відповідно до схеми
+- Простий та інтуїтивно зрозумілий API
 
-## Getting Started
+## Початок роботи
 
-### Prerequisites
+### Передумови
 - Python 3.x
 - pip
 
-### Installation
-To install the necessary dependencies, run:
+### Встановлення
+Для встановлення необхідних залежностей виконайте:
 ```bash
 pip install -r requirements.txt
